@@ -1,3 +1,5 @@
 这里是dev的hh
 测试merge的冲突中
-我遇到了一个bug
+我是bug-1，我修好了bug
+我这次真的修好了bug
+
